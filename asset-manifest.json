@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages-budget-tracker/static/css/main.865ef639.chunk.css",
+    "main.js": "/react-gh-pages-budget-tracker/static/js/main.6dfcc727.chunk.js",
+    "main.js.map": "/react-gh-pages-budget-tracker/static/js/main.6dfcc727.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages-budget-tracker/static/js/runtime-main.a3737aec.js",
+    "runtime-main.js.map": "/react-gh-pages-budget-tracker/static/js/runtime-main.a3737aec.js.map",
+    "static/js/2.da793e7f.chunk.js": "/react-gh-pages-budget-tracker/static/js/2.da793e7f.chunk.js",
+    "static/js/2.da793e7f.chunk.js.map": "/react-gh-pages-budget-tracker/static/js/2.da793e7f.chunk.js.map",
+    "index.html": "/react-gh-pages-budget-tracker/index.html",
+    "static/css/main.865ef639.chunk.css.map": "/react-gh-pages-budget-tracker/static/css/main.865ef639.chunk.css.map",
+    "static/js/2.da793e7f.chunk.js.LICENSE.txt": "/react-gh-pages-budget-tracker/static/js/2.da793e7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3737aec.js",
+    "static/js/2.da793e7f.chunk.js",
+    "static/css/main.865ef639.chunk.css",
+    "static/js/main.6dfcc727.chunk.js"
+  ]
+}
